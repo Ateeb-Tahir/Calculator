@@ -1,2 +1,3 @@
 # Calculator
-Calculator is a lightweight, interactive calculator application built using HTML, CSS, and JavaScript. It supports both mouse and keyboard input, allowing users to quickly perform basic arithmetic operations with real-time visual feedback.
+This is a modern, user-friendly web-based calculator built using HTML, CSS, and JavaScript. Designed with a responsive layout and intuitive button interface, it supports basic arithmetic operations and real-time input through both mouse and keyboard.
+
